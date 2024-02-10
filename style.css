@@ -1,0 +1,59 @@
+
+
+h1.name{
+    font-family: cursive;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+h1#warn {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: #ff0000;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    text-align: center;
+}
+div{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    
+}
+img:hover#main{
+    width: 750px;
+    height: 450px;
+}
+table td{
+    color: white;
+    border: 3px solid white;
+    width: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+table th{
+    color: white;
+}
+
+table{
+   
+   margin: auto;
+}
+a:link {
+    color: white;
+}
+a:visited{
+    color: white;
+}
+footer{
+    text-align: right;
+}
